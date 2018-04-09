@@ -6,15 +6,6 @@ USAGE:             linked to other files via .o file
 COMPILER:          g++ compiler c++11 standard
 NOTES:             used pragma once instead of the Def h syntax.
 
-MODIFICATION HISTORY:
-
-Author             Date           Modification(s)
-----------------   -----------    ---------------
-Peter Kilonzo      2018-03-26     Version 1
-Peter Kilonzo      2018-03-28     Version 2
-Peter Kilonzo      2018-03-30     Version 3
-Peter Kilonzo      2018-03-30     Version 4
-Peter Kilonzo      2018-04-04     Version 5
 ----------------------------------------------------------------------------- */
 //Header file for polynomial.cpp
 
@@ -25,7 +16,6 @@ Peter Kilonzo      2018-04-04     Version 5
 #define MAX(x, y) ((x) > (y) ? (x) : (y))
 #define ARRAY_SIZE(a) sizeof(a)/sizeof(a[0])
 
-const char PROGRAMMER_NAME[] = "Peter Kilonzo"; // Ony global constant
 
 using namespace std;
 
