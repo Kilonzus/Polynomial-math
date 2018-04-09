@@ -6,16 +6,6 @@ USAGE:             all that has to be done is to compile the code and run the pr
 COMPILER:          g++ compiler c++11 standard
 NOTES:             
 
-MODIFICATION HISTORY:
-
-Author             Date           Modification(s)
-----------------   -----------    ---------------
-Peter Kilonzo      2018-03-26     Version 1
-Peter Kilonzo      2018-03-28     Version 2
-Peter Kilonzo      2018-03-30     Version 3
-Peter Kilonzo      2018-03-30     Version 4
-Peter Kilonzo      2018-04-04     Version 5
-Peter Kilonzo      2018-04-05     Version 6
 ----------------------------------------------------------------------------- */
 
 #include "Polynomial.h"    //Specification file
